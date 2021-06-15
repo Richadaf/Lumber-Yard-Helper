@@ -1,0 +1,10 @@
+H:\Programming\1st Quarter\Visual basic studio\Lumberyard Helper\Lumber Yard Helper\Lumber Yard Helper\bin\Debug\Lumber Yard Helper.exe
+H:\Programming\1st Quarter\Visual basic studio\Lumberyard Helper\Lumber Yard Helper\Lumber Yard Helper\bin\Debug\Lumber Yard Helper.pdb
+H:\Programming\1st Quarter\Visual basic studio\Lumberyard Helper\Lumber Yard Helper\Lumber Yard Helper\bin\Debug\Lumber Yard Helper.xml
+H:\Programming\1st Quarter\Visual basic studio\Lumberyard Helper\Lumber Yard Helper\Lumber Yard Helper\obj\Debug\ResolveAssemblyReference.cache
+H:\Programming\1st Quarter\Visual basic studio\Lumberyard Helper\Lumber Yard Helper\Lumber Yard Helper\obj\Debug\Lumber_Yard_Helper.frmLumberyard.resources
+H:\Programming\1st Quarter\Visual basic studio\Lumberyard Helper\Lumber Yard Helper\Lumber Yard Helper\obj\Debug\Lumber_Yard_Helper.Resources.resources
+H:\Programming\1st Quarter\Visual basic studio\Lumberyard Helper\Lumber Yard Helper\Lumber Yard Helper\obj\Debug\Lumber Yard Helper.vbproj.GenerateResource.Cache
+H:\Programming\1st Quarter\Visual basic studio\Lumberyard Helper\Lumber Yard Helper\Lumber Yard Helper\obj\Debug\Lumber Yard Helper.exe
+H:\Programming\1st Quarter\Visual basic studio\Lumberyard Helper\Lumber Yard Helper\Lumber Yard Helper\obj\Debug\Lumber Yard Helper.xml
+H:\Programming\1st Quarter\Visual basic studio\Lumberyard Helper\Lumber Yard Helper\Lumber Yard Helper\obj\Debug\Lumber Yard Helper.pdb
